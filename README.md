@@ -7,6 +7,7 @@ COMO EXECUTAR:
 Primeiro compile com: gcc Ordenation.c -o Ordenation
 
 Depois execute com: ./Ordenation.exe ArquivosTeste/(nome do arquivo da pasta que quer testar)
+
 Exemplo: ./Ordenation.exe ArquivosTeste/num.1000.1.in
 
 Dois arquivos ordenados serão criados no final, um usando SelectionSort e o outro InsertionSort.
